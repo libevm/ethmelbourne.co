@@ -84,7 +84,7 @@ function App() {
           <img src={logo} alt="logo" width={256} height={256} />
           <Typography variant="h4">Ethereum Melbourne</Typography>
           <Typography variant="subtitle1">
-            Member of all levels welcomed! Bi-weekly meetups on Wednesdays.
+            Members of all levels welcomed! Bi-weekly meetups on Wednesdays.
           </Typography>
           <br />
           <Link href="https://www.meetup.com/ethereum-melbourne/">meetup</Link>
