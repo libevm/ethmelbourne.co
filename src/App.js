@@ -81,7 +81,7 @@ function App() {
         style={{ minHeight: "100vh", textAlign: "center" }}
       >
         <Grid item xs={3}>
-          <img src={logo} alt="logo" width={256} height={256} />
+          <img src={logo} alt="logo" width={128} height={128} />
           <Typography variant="h4">Ethereum Melbourne</Typography>
           <Typography variant="subtitle1">
             Members of all levels welcomed! Bi-weekly meetups on Wednesdays.
@@ -102,6 +102,9 @@ function App() {
           >
             newsletter
           </Link>
+          <br />
+          <br />
+          email: hello[at]ethmelbourne.co
         </Grid>
       </Grid>
     </>
