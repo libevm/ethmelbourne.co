@@ -38,7 +38,7 @@ function App() {
         >
           <Box sx={modalStyle}>
             <Typography id="modal-modal-title" variant="h6" component="h2">
-              Subscribe to Newsletter
+              Subscribe to Ethereum Melbourne Newsletter
             </Typography>
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
               <TextField
@@ -87,6 +87,8 @@ function App() {
             Members of all levels welcomed! Bi-weekly meetups on Wednesdays.
           </Typography>
           <br />
+          <Link href="https://twitter.com/ethmelbourne">twitter</Link>
+          &nbsp;&nbsp;
           <Link href="https://www.meetup.com/ethereum-melbourne/">meetup</Link>
           &nbsp;&nbsp;
           <Link href="https://discord.gg/7rjEfhtsxe">discord</Link>
