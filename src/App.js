@@ -91,6 +91,8 @@ function App() {
           &nbsp;&nbsp;
           <Link href="https://www.meetup.com/ethereum-melbourne/">meetup</Link>
           &nbsp;&nbsp;
+          <Link href="https://t.me/+Yn85Nzth0XRlM2Jh">telegram</Link>
+          &nbsp;&nbsp;
           <Link href="https://discord.gg/7rjEfhtsxe">discord</Link>
           &nbsp;&nbsp;
           <Link
