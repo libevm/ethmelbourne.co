@@ -106,7 +106,7 @@ function App() {
           </Link>
           <br />
           <br />
-          <Link href="https://forms.gle/z4dZDY16ED5m2SrF8">Interested in speaking?</Link>
+          <Link href="https://forms.gle/z4dZDY16ED5m2SrF8">interested in speaking?</Link>
           <br/>
           <br/>
           email: hello[at]ethmelbourne.co
