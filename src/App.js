@@ -84,7 +84,7 @@ function App() {
           <img src={logo} alt="logo" width={128} height={128} />
           <Typography variant="h4">Ethereum Melbourne</Typography>
           <Typography variant="subtitle1">
-            Members of all levels welcomed! Bi-weekly meetups on Wednesdays.
+            Members of all levels welcomed! Fortnightly meetups on Wednesdays.
           </Typography>
           <br />
           <Link href="https://twitter.com/ethmelbourne">twitter</Link>
@@ -106,6 +106,9 @@ function App() {
           </Link>
           <br />
           <br />
+          <Link href="https://forms.gle/z4dZDY16ED5m2SrF8">Interested in speaking?</Link>
+          <br/>
+          <br/>
           email: hello[at]ethmelbourne.co
         </Grid>
       </Grid>
