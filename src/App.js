@@ -93,7 +93,7 @@ function App() {
           &nbsp;&nbsp;
           <Link href="https://t.me/+Yn85Nzth0XRlM2Jh">telegram</Link>
           &nbsp;&nbsp;
-          <Link href="https://discord.gg/7rjEfhtsxe">discord</Link>
+          <Link href="https://discord.gg/tDqFSFxSnt">discord</Link>
           &nbsp;&nbsp;
           <Link
             onClick={(e) => {
