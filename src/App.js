@@ -89,6 +89,8 @@ function App() {
           <br />
           <Link href="https://twitter.com/ethmelbourne">twitter</Link>
           &nbsp;&nbsp;
+          <Link href="https://lu.ma/u/usr-VEFqG8hvMFtTjmx/">events</Link>
+          &nbsp;&nbsp;
           <Link href="https://www.meetup.com/ethereum-melbourne/">meetup</Link>
           &nbsp;&nbsp;
           <Link href="https://t.me/+Yn85Nzth0XRlM2Jh">telegram</Link>
