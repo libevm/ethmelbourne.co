@@ -84,33 +84,23 @@ function App() {
           <img src={logo} alt="logo" width={128} height={128} />
           <Typography variant="h4">Ethereum Melbourne</Typography>
           <Typography variant="subtitle1">
-            Members of all levels welcomed! Fortnightly meetups on Wednesdays.
+            Members of all levels welcomed! Monthly meetups on first Wednesdays.
           </Typography>
+          <br />
+          <iframe title="calendar" src="https://calendar.google.com/calendar/embed?src=hello%40ethmelbourne.co&ctz=Australia%2FMelbourne" style={{ 'border': 0 }} width="800" height="600" frameborder="0" scrolling="no"></iframe>
           <br />
           <Link href="https://twitter.com/ethmelbourne">twitter</Link>
           &nbsp;&nbsp;
           <Link href="https://lu.ma/u/usr-VEFqG8hvMFtTjmx/">events</Link>
           &nbsp;&nbsp;
-          <Link href="https://www.meetup.com/ethereum-melbourne/">meetup</Link>
-          &nbsp;&nbsp;
           <Link href="https://t.me/+Yn85Nzth0XRlM2Jh">telegram</Link>
           &nbsp;&nbsp;
           <Link href="https://discord.gg/tDqFSFxSnt">discord</Link>
-          &nbsp;&nbsp;
-          <Link
-            onClick={(e) => {
-              e.preventDefault();
-              setModalOpen(true);
-            }}
-            href="#"
-          >
-            newsletter
-          </Link>
           <br />
           <br />
           <Link href="https://forms.gle/z4dZDY16ED5m2SrF8">interested in speaking?</Link>
-          <br/>
-          <br/>
+          <br />
+          <br />
           email: hello[at]ethmelbourne.co
         </Grid>
       </Grid>
