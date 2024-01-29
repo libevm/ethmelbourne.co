@@ -18,7 +18,7 @@ function App() {
       style={{ marginTop: '50px', textAlign: "center" }}>
 
       <Grid item md={12}>
-        <img src={logo} alt="logo" width={128} height={128} />
+        <img src={logo} alt="logo" width={256} height={256} />
         <Typography variant="h4">Ethereum Melbourne</Typography>
         <Typography variant="subtitle1">
           Members of all levels welcomed! Monthly meetups on last Wednesdays.
